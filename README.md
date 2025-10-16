@@ -19,7 +19,7 @@ A 2D infinite runner made to learn Unity's Object Pooling system.
 
 ## 🛠️ Technical Stack
 
-- Unity 6000.0.50f1
+- Unity 6000.2.7f2
 - C# with component-based architecture
 - New Input System
 - TextMeshPro
