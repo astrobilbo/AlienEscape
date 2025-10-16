@@ -1,0 +1,16 @@
+{
+    "name": "Obstacle",
+    "rootNamespace": "",
+    "references": [
+        "Manager"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-9190173418048462690
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 07 flight home_{-9190173418048462690}
+  m_AudioClip: {fileID: 8300000, guid: ae8faf405803011439fc97b9aabb81b5, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-6230740824921759093
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 06 lunar lounging_{-6230740824921759093}
+  m_AudioClip: {fileID: 8300000, guid: eed4a5ce624221044b0ac50bd7baf341, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4183691375708220702
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 03 rain on mars_{-4183691375708220702}
+  m_AudioClip: {fileID: 8300000, guid: 9e056acf4d268944b9a99d5d6c43197d, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3481853873729482233
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 05 mpk plaza_{-3481853873729482233}
+  m_AudioClip: {fileID: 8300000, guid: 7b6ef22b2f300f64abed5cd51977e6d6, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1965183686959416459
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 04 spaceship earth_{-1965183686959416459}
+  m_AudioClip: {fileID: 8300000, guid: 89128d587fd14f44db9f45a26bab51c0, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1675072652019220385
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 02 sol beach (day)_{1675072652019220385}
+  m_AudioClip: {fileID: 8300000, guid: f51cdc1151bcf474884dbb01ce0fcc32, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Music
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 7568990108357145919}
+  - {fileID: 1675072652019220385}
+  - {fileID: -4183691375708220702}
+  - {fileID: -1965183686959416459}
+  - {fileID: -3481853873729482233}
+  - {fileID: -6230740824921759093}
+  - {fileID: -9190173418048462690}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 2
+  m_TriggerMode: 1
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 0
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &7568990108357145919
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 01 paradise wasteland_{7568990108357145919}
+  m_AudioClip: {fileID: 8300000, guid: 469e2841ce6de4844b670f9d7ac85616, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

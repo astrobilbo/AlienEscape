@@ -1,0 +1,17 @@
+{
+    "name": "Score",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "Manager"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
